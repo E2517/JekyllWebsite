@@ -1,12 +1,7 @@
 # Site settings
-title:
+title: e2517
 email:
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
+description: Jekyll website to try the deploy in Github
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
 
-# Build settings
-markdown: kramdown
